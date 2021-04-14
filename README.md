@@ -1,10 +1,9 @@
 # kattis-test
 A command line tool to quickly test your code on the input/output samples provided in a kattis problem description before submitting your solution.
 
-Requires python 3 and *requests* installed.
-
 # Installation
-Run `git clone https://https://github.com/wkrill/kattis-test` to clone the repository.
+Make sure python 3 and *requests* are installed.
+Then run `git clone https://https://github.com/wkrill/kattis-test` to clone the repository.
 
 To run the client as a command from anywhere on your file system, you need to add the `kattis-test` directory to your `$PATH` variable.
 On mac/linux this is done by adding the line `export PATH="$PATH:/path/to/kattis-cli` to your `.bash_profile` (or `.zshrc` if you use the Z shell).
