@@ -78,6 +78,7 @@ def test_script(fname, io_samples):
             print('Expected output:')
             print(out)
 
+
 def main():
     fname = sys.argv[1]
     if len(sys.argv) > 2:
