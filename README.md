@@ -1,5 +1,7 @@
 # kattis-test
-Quickly test your code on the input/output samples provided in a kattis problem description before submitting your solution.
+A command line tool to quickly test your code on the input/output samples provided in a kattis problem description before submitting your solution.
+
+Requires python 3 and *requests* installed.
 
 # Installation
 Run `git clone https://https://github.com/wkrill/kattis-test` to clone the repository.
